@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/aayushvarshney/Textlyzer/static/css/main.24f20982.chunk.css",
+    "main.js": "/aayushvarshney/Textlyzer/static/js/main.6e69034a.chunk.js",
+    "main.js.map": "/aayushvarshney/Textlyzer/static/js/main.6e69034a.chunk.js.map",
+    "runtime-main.js": "/aayushvarshney/Textlyzer/static/js/runtime-main.9b828792.js",
+    "runtime-main.js.map": "/aayushvarshney/Textlyzer/static/js/runtime-main.9b828792.js.map",
+    "static/css/2.f4c56af9.chunk.css": "/aayushvarshney/Textlyzer/static/css/2.f4c56af9.chunk.css",
+    "static/js/2.edf4409f.chunk.js": "/aayushvarshney/Textlyzer/static/js/2.edf4409f.chunk.js",
+    "static/js/2.edf4409f.chunk.js.map": "/aayushvarshney/Textlyzer/static/js/2.edf4409f.chunk.js.map",
+    "static/js/3.5d7a8ded.chunk.js": "/aayushvarshney/Textlyzer/static/js/3.5d7a8ded.chunk.js",
+    "static/js/3.5d7a8ded.chunk.js.map": "/aayushvarshney/Textlyzer/static/js/3.5d7a8ded.chunk.js.map",
+    "index.html": "/aayushvarshney/Textlyzer/index.html",
+    "static/css/2.f4c56af9.chunk.css.map": "/aayushvarshney/Textlyzer/static/css/2.f4c56af9.chunk.css.map",
+    "static/css/main.24f20982.chunk.css.map": "/aayushvarshney/Textlyzer/static/css/main.24f20982.chunk.css.map",
+    "static/js/2.edf4409f.chunk.js.LICENSE.txt": "/aayushvarshney/Textlyzer/static/js/2.edf4409f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9b828792.js",
+    "static/css/2.f4c56af9.chunk.css",
+    "static/js/2.edf4409f.chunk.js",
+    "static/css/main.24f20982.chunk.css",
+    "static/js/main.6e69034a.chunk.js"
+  ]
+}
