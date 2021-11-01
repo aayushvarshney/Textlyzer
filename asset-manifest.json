@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/aayushvarshney/Textlyzer/static/css/main.24f20982.chunk.css",
-    "main.js": "/aayushvarshney/Textlyzer/static/js/main.6e69034a.chunk.js",
-    "main.js.map": "/aayushvarshney/Textlyzer/static/js/main.6e69034a.chunk.js.map",
+    "main.js": "/aayushvarshney/Textlyzer/static/js/main.2976fbab.chunk.js",
+    "main.js.map": "/aayushvarshney/Textlyzer/static/js/main.2976fbab.chunk.js.map",
     "runtime-main.js": "/aayushvarshney/Textlyzer/static/js/runtime-main.9b828792.js",
     "runtime-main.js.map": "/aayushvarshney/Textlyzer/static/js/runtime-main.9b828792.js.map",
     "static/css/2.f4c56af9.chunk.css": "/aayushvarshney/Textlyzer/static/css/2.f4c56af9.chunk.css",
@@ -20,6 +20,6 @@
     "static/css/2.f4c56af9.chunk.css",
     "static/js/2.edf4409f.chunk.js",
     "static/css/main.24f20982.chunk.css",
-    "static/js/main.6e69034a.chunk.js"
+    "static/js/main.2976fbab.chunk.js"
   ]
 }
